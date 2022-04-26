@@ -1,0 +1,5 @@
+server:
+  origin: http://hocalhost:80
+
+db:
+  synchronize: false
